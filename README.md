@@ -1,4 +1,4 @@
-# FastAPI Backend – CAREER.OS
+# FastAPI Backend – SENTI FORGE
 
 This repository contains the FastAPI backend for an Agentic AI
 Career Decision Platform (CSDA-based).
